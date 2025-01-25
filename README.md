@@ -50,6 +50,10 @@ PrimeNest’s sales analysis of records across 2020-2023 shows annual sales aver
 - Although customer retention and repeat purchase rates are some of PrimeNest’s best metrics, a loyalty program could further solidify the acquisition of new customers.
 - Enhance loyalty onboarding by implementing campaigns with first-purchase discounts and early access offers.
 
+Link To Dashboard - [Here](https://public.tableau.com/views/PrimeNestSales/PrimeNestSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+![Screenshot 2025-01-24 162647](https://github.com/user-attachments/assets/937a3164-7b3f-4900-a9a6-bf7ab51385e9)
 
 
 
